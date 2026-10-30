@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/typicode/husky",
   "devDependencies": {
-    "jest": "^20.0.4",
+    "jest": "^30.5.2",
     "mkdirp": "^0.5.1",
     "prettier": "^1.4.4",
     "rimraf": "^2.6.1",
